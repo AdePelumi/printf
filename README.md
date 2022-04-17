@@ -55,8 +55,8 @@ Integer: printf("%i", 5); Output: 5
 ## Project Requirements
 ---
 - Allowed editors: **vi**, **vim**, **emacs**
-- All your files will be compiled on Ubuntu 14.04 LTS
-- Your programs and functions will be compiled with gcc 4.8.4 using the flags **-Wall** **-Werror** **-Wextra** and **-pedantic**
+- All your files will be compiled on Ubuntu 20.04 LTS
+- Your programs and functions will be compiled with gcc using the flags **-Wall** **-Werror** **-Wextra** and **-pedantic**
 - A **README.md** file, at the root of the folder of the project is mandatory
 - Your code should use the Betty style. It will be checked using [betty-style.pl](https://github-dotcom.gateway.web.tr/holbertonschool/Betty/blob/master/betty-style.pl) and [betty-doc.pl](https://github-dotcom.gateway.web.tr/holbertonschool/Betty/blob/master/betty-doc.pl).
 - You are not allowed to use global variables
@@ -73,7 +73,7 @@ Integer: printf("%i", 5); Output: 5
 ## Authors
 ---
 - [AdePelumi](https://github.com/AdePelumi)
-- [Ibrahim Kazem](https://github.com/caxri7)
+- [Ibrahim Kazeem](https://github.com/caxri7)
 
 ## Acknowledgements
 ---
